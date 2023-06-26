@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956161603921",
+    "project_id": "farme-de-meyrenal",
+    "storage_bucket": "farme-de-meyrenal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956161603921:android:5d6369d1cdbf67accd3b70",
+        "android_client_info": {
+          "package_name": "com.jasonricou.fermedemeyrenal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956161603921-pvc2j6ieeiml4qgio4pldad2o169c7ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApUZDssWqaq5hku4LIGNVAnCfApEUrYvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956161603921-pvc2j6ieeiml4qgio4pldad2o169c7ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
